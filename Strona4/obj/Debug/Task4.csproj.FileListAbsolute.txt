@@ -1,0 +1,7 @@
+C:\Users\48571\OneDrive\Pulpit\COMLab6\_WCF_3_lab_files\Task4\bin\Task4.dll.config
+C:\Users\48571\OneDrive\Pulpit\COMLab6\_WCF_3_lab_files\Task4\bin\Task4.dll
+C:\Users\48571\OneDrive\Pulpit\COMLab6\_WCF_3_lab_files\Task4\bin\Task4.pdb
+C:\Users\48571\OneDrive\Pulpit\COMLab6\_WCF_3_lab_files\Task4\obj\Debug\Task4.csproj.AssemblyReference.cache
+C:\Users\48571\OneDrive\Pulpit\COMLab6\_WCF_3_lab_files\Task4\obj\Debug\Task4.csproj.CoreCompileInputs.cache
+C:\Users\48571\OneDrive\Pulpit\COMLab6\_WCF_3_lab_files\Task4\obj\Debug\Task4.dll
+C:\Users\48571\OneDrive\Pulpit\COMLab6\_WCF_3_lab_files\Task4\obj\Debug\Task4.pdb
